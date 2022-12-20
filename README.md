@@ -1,2 +1,1 @@
-# project-great-white
-tech blog
+# E-commerce Back End Starter Code
