@@ -1,7 +1,7 @@
 # Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
 ## Licensing:
-[(https://img.shields.io/badge/Shark-great%20white-red)]
+[![license](https://img.shields.io/badge/Shark-great%20white-red)](https://shields.io)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
 
 ## Description
@@ -22,4 +22,4 @@ The challenge this week is to build the back end for an e-commerce site. You’l
 
 ## Questions
 - Github: [Arthur528](https://github.com/Arthur528/project-great-white)
-- Email: phondeth@gmail.com
+- Email: kcain72@gmail.com
