@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "project-great-white",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![license](https://img.shields.io/badge/Shark-great%20white-red)](https://shields.io)\r [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)\r [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,15 +14,15 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kevin Cain",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^5.21.7"
+    "dotenv": "^8.6.0",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^5.22.5"
   }
 }
