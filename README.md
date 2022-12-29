@@ -4,29 +4,14 @@
 ## Licensing:
 [![license](https://img.shields.io/badge/Shark-great%20white-red)](https://shields.io)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
-[![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
+[![license](https://img.shields.io/badge/UW-UW--Coding%20bootcamp-blueviolet)](https://shields.io)
 
 ## Description
 The challenge this week is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
-## Walkthrough Videos
-* Video 1 - Create schema and seed the database
+## Links to Video
 
-
-
-* Video 2 - Start application and GET routes to return all categories, all products, all tags
-
-
-
-* Video 3 - GET routes to return a single category, a single product and a single tag 
-
-
-
-* Video 4 - POST, PUT, and DELETE routes for categories, products and tags
-
-
-
-## Links to Videos
+[Untitled_ Dec 29, 2022 12_18 PM.webm](https://user-images.githubusercontent.com/113845043/210010566-03123953-6aa8-4948-8b16-f8d6bcee100c.webm)
 
 
 ## Installation
